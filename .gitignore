@@ -1,0 +1,4 @@
+_site
+post_example/*.*
+_posts/*Question*.markdown
+.DS_Store
